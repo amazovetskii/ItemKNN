@@ -7,6 +7,6 @@ with some other algorithms.
 
 After my best system was a plain ItemKNN. 
 On the competition platform I achieved 38.3% accuracy calculating 
-recommendations from the whole dataset. This is a quite good result. 
+recommendations on the whole dataset. This is a quite good result. 
 It could be better, if I had an inside about time factor of listens, meaning a time sequence of listens. 
 Further improvements can be achieved being provided with more information about user. 
